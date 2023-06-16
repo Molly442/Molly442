@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Molly442
+- 👀 I’m interested in web dev and CS
+- 🌱 I’m currently learning software engineering
