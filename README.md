@@ -5,7 +5,6 @@
   <img src="https://media1.tenor.com/m/2Te4Was8UnUAAAAd/pixel-city-discord-decoration.gif" width="400"/>
 </div>
 
-
 ## 👨‍💻 About Me
 Passionate software engineer dedicated to creating innovative solutions and continuously learning new technologies. I transform complex problems into elegant code.
 
@@ -88,5 +87,3 @@ Best practices in software architecture (Spring boot)
 </a>
 
 ⭐️ Crafted with passion by Molly442
-
-
