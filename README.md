@@ -77,7 +77,9 @@ Technical Implementation:
 
 ## 🌱 Currently Learning
 Advanced cloud technologies
+
 NextsJS / React
+
 Best practices in software architecture (Spring boot)
 
 ## 📫 Connect With Me
