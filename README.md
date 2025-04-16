@@ -33,47 +33,6 @@ Programming Languages, Tools and Frameworks
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp; 
 </div>
 
-## 🌟 Featured Projects
-
-### 🐠 AquaVision: Smart Aquarium Monitoring System
-AquaVision is an innovative aquarium monitoring system that leverages computer vision technology to provide real-time insights into aquatic environments.
-
-Key Features:
-- Real-time fish detection and species identification using YOLOv8
-- Dual-mode operation:
-- Webcam video mode for continuous monitoring
-- Photo mode for instant snapshots and analysis
-- Population counting and tracking
-- Behavior analysis of aquatic life
-Technical Implementation:
-
-- YOLO (You Only Look Once) v8 architecture for object detection
-- Custom-trained model on diverse aquarium datasets
-- RobotFlow and ultralytics libraries used
-- Jupyter Notebook
-  
-Potential Applications:
-- Home aquarium management
-- Professional aquariums and marine research
-- Educational tools for marine biology
-
-### 🔒 VerrouSecure: IoT-Enabled Locker System
-VerrouSecure is a sophisticated IoT locker system with a Kotlin-based mobile application, offering secure and flexible access control.
-
-Key Features:
-- Remote locking and unlocking via Kotlin Android application
-- NFC tag scanning for physical access
-- User profile customization and access level management
-- Comprehensive logging system for administrators
-
-Technical Implementation:
-
-- Kotlin-based Android application for user interface
-- Secure RESTful API for communication between app and locker hardware
-- NFC reader integration for contactless access
-- Cloud-based backend (Firebase) for user management and logging
-- Arduino for locker control
-
 ## 🌱 Currently Learning
 Advanced cloud technologies
 
