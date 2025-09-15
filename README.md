@@ -33,13 +33,6 @@ Programming Languages, Tools and Frameworks
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp; 
 </div>
 
-## 🌱 Currently Learning
-Advanced cloud technologies
-
-NextsJS / React
-
-Best practices in software architecture (Spring boot)
-
 ## 📫 Connect With Me
 <a href="https://www.linkedin.com/in/thomas-montusclat-02694b22a/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
